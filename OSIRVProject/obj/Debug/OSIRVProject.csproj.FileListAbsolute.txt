@@ -1,0 +1,9 @@
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\bin\Debug\OSIRVProject.exe.config
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\bin\Debug\OSIRVProject.exe
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\bin\Debug\OSIRVProject.pdb
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\bin\Debug\Newtonsoft.Json.dll
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\bin\Debug\Newtonsoft.Json.xml
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\obj\Debug\OSIRVProject.csprojResolveAssemblyReference.cache
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\obj\Debug\OSIRVProject.exe
+d:\users\dino\documents\visual studio 2015\Projects\OSIRVProject\OSIRVProject\obj\Debug\OSIRVProject.pdb
